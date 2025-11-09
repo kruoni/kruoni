@@ -1,1 +1,2 @@
-# Hi, I'm k(r)uoni and I just make random CSS on apps I like.
+# Hi, k(r)uoni here.
+I make unoptimized Discord themes.
